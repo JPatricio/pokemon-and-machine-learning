@@ -1,0 +1,3 @@
+[submodule "DCGAN"]
+	path = DCGAN
+	url = https://github.com/carpedm20/DCGAN-tensorflow.git
