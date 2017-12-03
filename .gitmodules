@@ -1,3 +1,6 @@
 [submodule "DCGAN"]
 	path = DCGAN
 	url = https://github.com/carpedm20/DCGAN-tensorflow.git
+[submodule "YOLO"]
+	path = YOLO
+	url = https://github.com/pjreddie/darknet.git
