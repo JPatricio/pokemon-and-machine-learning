@@ -8,7 +8,7 @@ Markdown==2.6.9
 numpy==1.13.1
 olefile==0.44
 Pillow==4.2.1
-protobuf==3.4.0
+protobuf==3.18.3
 requests==2.18.4
 scipy==0.19.1
 six==1.11.0
